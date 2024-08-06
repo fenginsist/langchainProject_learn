@@ -1,0 +1,11 @@
+# Python编译文件
+__pycache__/
+
+
+# 环境变量文件
+.env
+
+
+# IDE配置文件
+.vscode/
+.idea/

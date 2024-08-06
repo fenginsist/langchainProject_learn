@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+fastapi==0.111.1
+langchain==0.2.12
+langchain_chroma==0.1.2
+langchain_community==0.2.10
+langchain_core==0.2.27
+langchain_openai==0.1.20
+langchain_text_splitters==0.2.2
+langgraph==0.1.19
+langserve==0.2.2
+ollama==0.3.1
+openai==1.37.2
+uvicorn==0.30.4
+zhipuai==2.1.4.20230731
+python==3.10.14
