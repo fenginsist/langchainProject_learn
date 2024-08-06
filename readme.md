@@ -25,8 +25,13 @@ pip install pipreqs
     SSE 调用: 调用后可以流式的实时获取到结果直到结束，Python
 3. `03_ThirdPlatform-opanAISDK.py`: 第三方的平台
     OpenAI SDK
+    文档：https://open.bigmodel.cn/dev/api#openai_sdk
    `03_ThirdPlatform-LangChainSDK.py`
     LangChain SDK
+    文档：https://open.bigmodel.cn/dev/api#langchain_sdk
+
+上面使用的智谱清言的chatglm模型，需要注册API_KEY，注册平台：https://open.bigmodel.cn/dev/howuse/introduction ，点击右上角登录注册即可。
+
 ---------------------------------------------------------------从这里才开始 使用 langchain 调用 LLM（外部百度千帆）
 **langchain 开发文档 code demo链接：https://python.langchain.com/v0.2/docs/tutorials/llm_chain/ ，
 这个章节的主题是:Build a Simple LLM Application with LCEL,使用LCEL构建一个简单的LLM应用**

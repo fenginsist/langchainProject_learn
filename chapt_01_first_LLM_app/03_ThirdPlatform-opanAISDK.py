@@ -7,6 +7,7 @@ os.environ['CHATGLM_API_KEY'] = '09accc9c442473f6029f0062d1cd9411.cAbNNUUldblEFr
 if __name__ == '__main__':
     '''
     第三方框架-OpenAI SDK 使用
+    文档：https://open.bigmodel.cn/dev/api#openai_sdk
     '''
     client = OpenAI(
         api_key=os.environ.get('CHATGLM_API_KEY'),

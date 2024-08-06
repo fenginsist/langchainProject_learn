@@ -41,6 +41,7 @@ def test1():
 
 if __name__ == '__main__':
     '''
-    chatglm4 集成的第三方平台 Langchain。还是调用chatglm4
+    chatglm4 集成的第三方平台 Langchain。本质上还是调用 chatglm4
+    文档：https://open.bigmodel.cn/dev/api#langchain_sdk
     '''
     test1()
